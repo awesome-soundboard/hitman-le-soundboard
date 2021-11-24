@@ -1,10 +1,10 @@
-# [Hitman le Cobra, le soundboard](https://git.io/JP2TK)
+# [Hitman le Cobra, le soundboard](https://git.io/JMfIx)
 
 Les répliques de [Hitman le Cobra](https://fr.wikipedia.org/wiki/Hitman_le_Cobra), votre nanar préféré à portée de clic.
 
 ## More soundboard?
 
-Check my curated list of [Awesome Soundboards](https://git.io/JPWLi).
+Check my curated list of [Awesome Soundboards](https://git.io/JMfYw).
 
 ## Credits
 
